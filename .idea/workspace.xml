@@ -108,7 +108,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="feature-b" />
                       </list>
                     </value>
                   </entry>
