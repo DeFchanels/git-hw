@@ -1,0 +1,19 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Git Homework\nАвтор: Асриев Георгий Вадимович\nГруппа: М8О-101БВ-26\nСтрока 1 - ветка B\nСтрока 2
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 4db907e11dead6257ad4d03219ebc546c2e0cf39)
++++ b/README.md	(date 1791398670365)
+@@ -2,4 +2,5 @@
+ Автор: Асриев Георгий Вадимович
+ Группа: М8О-101БВ-26
+ Строка 1 - ветка B
+-Строка 2
+\ No newline at end of file
++Строка 2
++Изменен
+\ No newline at end of file
