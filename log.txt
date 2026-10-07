@@ -1,0 +1,51 @@
+commit ae3f868c8a52f44a0214a3427714457f9996e471 (HEAD -> main, origin/main)
+Merge: 439d075 e4ddda5
+Author: Георгий <georgy@192.168.1.8>
+Date:   Wed Oct 7 21:33:37 2026 +0300
+
+    Fixed merge conflict
+
+commit e4ddda547a241b0b73ff8929ebcc31f8685866c0
+Author: Георгий <georgy@192.168.1.8>
+Date:   Wed Oct 7 21:30:25 2026 +0300
+
+    feature-b: changed for future merge conflict
+
+commit 439d07570612d62e76c846c3ac55b2f6981cb169
+Author: Георгий <georgy@192.168.1.8>
+Date:   Wed Oct 7 21:29:20 2026 +0300
+
+    main: changed for future merge conflict
+
+commit b7f2853714358227a748522f2edea8ff6ed4c8e4
+Author: Георгий <georgy@192.168.1.8>
+Date:   Wed Oct 7 21:13:55 2026 +0300
+
+    feature-b: добавить содержание 3-ей строки
+
+    # Conflicts:
+    #       README.md
+
+commit a5edf21c24267d30cf0d7545d6a13008a0c57019
+Author: Георгий <georgy@192.168.1.8>
+Date:   Wed Oct 7 21:15:59 2026 +0300
+
+    main: merged with feature-a
+
+commit 3abae5b47608156e279594e5f4332f6a560b1b74
+Author: Георгий <georgy@192.168.1.8>
+Date:   Wed Oct 7 21:11:46 2026 +0300
+
+    feature-a: добавить содержание 4-ой строки
+
+commit 0ff748062971cf3af22c8f8fbb8fd518d7d5ddf9
+Author: Георгий <georgy@192.168.1.8>
+Date:   Wed Oct 7 21:11:17 2026 +0300
+
+    feature-a: добавить содержание 3-ей строки
+
+commit 6b8443e6d7106d2448bd1584cb1afc8917b4727f
+Author: Георгий <georgy@192.168.1.8>
+Date:   Wed Oct 7 21:09:33 2026 +0300
+
+    Initial commit
